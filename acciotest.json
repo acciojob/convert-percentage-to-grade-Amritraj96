@@ -1,0 +1,4 @@
+{
+  "testRepo": "convert-percentage-to-grade-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
